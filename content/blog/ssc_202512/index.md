@@ -1,7 +1,7 @@
 ---
 title: "Mentorship as a Catalyst for Scientific Excellence"
 subtitle: "Why everyone can and should mentor—and how busy academics find the time"
-excerpt: "Insights from my favourite session at the Singapore Scientific Conference 2025."
+excerpt: "Takeaways from a panel session at the Singapore Scientific Conference 2025 (Dec 2025; MBS)"
 date: 2025-12-22
 author: "Konstanze Tan"
 draft: false
@@ -9,7 +9,6 @@ draft: false
 layout: single
 categories:
 - career
-- mentorship
 ---
 
 I was at the Singapore Scientific Conference last week, held in commemoration of SG60, organised by A*STAR and supported by the National Research Foundation. Over three days, eminent speakers discussed research and development advances in Sustainable Health, Environment, Manufacturing and Energy that have contributed to our economy and society.
