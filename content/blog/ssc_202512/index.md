@@ -11,7 +11,7 @@ categories:
 - career
 ---
 
-I was at the Singapore Scientific Conference last week, held in commemoration of SG60, organised by A*STAR and supported by the National Research Foundation. Over three days, eminent speakers discussed research and development advances in Sustainable Health, Environment, Manufacturing and Energy that have contributed to our economy and society.
+I was at the [Singapore Scientific Conference](https://singaporesciconf.org/overview/) last week, held in commemoration of SG60, organised by A*STAR and supported by the National Research Foundation. Over three days, eminent speakers discussed research and development advances in Sustainable Health, Environment, Manufacturing and Energy that have contributed to our economy and society.
 
 Besides hard science and data, the programme included an 'SG Insights and Dialogues' category that featured panel discussions and dialogues.
 
@@ -59,7 +59,7 @@ This can look like passing along opportunities that come your way to someone who
 
 Some forms of mentorship are even more camouflaged into our everyday—we may not even recognise these until long after we've benefitted.
 
-Executive coach Yan Ping Chua articulates this well in her LinkedIn post. Reflecting on her 18-year career in investment banking, she describes how an unlikely mentor—not someone formally assigned to her, helped salvage a career that nearly ended within the first five years.
+Executive coach Yan Ping Chua articulates this well in her [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7404314848748011521/). Reflecting on her 18-year career in investment banking, she describes how an unlikely mentor—not someone formally assigned to her, helped salvage a career that nearly ended within the first five years.
 
 She writes about her mentor:
 
