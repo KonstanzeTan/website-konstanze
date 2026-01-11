@@ -1,10 +1,8 @@
 ---
-title: "Learning Corner"
-subtitle: "Resources and tutorials."
+title: "Presentation Clinic"
+subtitle: "Get feedback and resources"
 description: |
-  Here are bundles of links to my favourite learning resources 
-  organised by key methods and tools used in my thesis. Hope you
-  find something that you need.
+  I help LKCMedicine students make clear, effective and examiner-friendly slides.
 author: Konstanze Tan
 show_post_thumbnail: true
 thumbnail_left: false # for list-sidebar only
@@ -17,12 +15,10 @@ layout: list-sidebar # list, list-sidebar
 cascade:
   layout: single-series 
   sidebar:
-    title: "Learning Corner"
+    title: "Presentation Clinic"
     author: Konstanze Tan
     description: |
-     Here are bundles of links to my favourite learning resources 
-     organised by key methods and tools used in my thesis. Hope you
-     find something that you need.
+      I help LKCMedicine students make clear, effective and examiner-friendly slides.
     show_author_byline: true
     show_post_date: true
     text_link_label: ""
