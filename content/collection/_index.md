@@ -1,8 +1,8 @@
 ---
 title: "Presentation Clinic"
-subtitle: "Get feedback and resources"
+subtitle: "Step-by-step guides"
 description: |
-  I help LKCMedicine students make clear, effective and examiner-friendly slides.
+  Tutorials and posts written to be read in sequence, each building on the last.
 author: Konstanze Tan
 show_post_thumbnail: true
 thumbnail_left: false # for list-sidebar only
@@ -18,7 +18,7 @@ cascade:
     title: "Presentation Clinic"
     author: Konstanze Tan
     description: |
-      I help LKCMedicine students make clear, effective and examiner-friendly slides.
+      Tutorials and posts written to be read in sequence, each building on the last.
     show_author_byline: true
     show_post_date: true
     text_link_label: ""
