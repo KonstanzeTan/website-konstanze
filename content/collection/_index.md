@@ -1,5 +1,5 @@
 ---
-title: "Presentation Clinic"
+title: "Deep Dives"
 subtitle: "Step-by-step guides"
 description: |
   Tutorials and posts written to be read in sequence, each building on the last.
@@ -15,7 +15,7 @@ layout: list-sidebar # list, list-sidebar
 cascade:
   layout: single-series 
   sidebar:
-    title: "Presentation Clinic"
+    title: "Deep Dives"
     author: Konstanze Tan
     description: |
       Tutorials and posts written to be read in sequence, each building on the last.
