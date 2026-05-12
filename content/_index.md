@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description:  I am a graduate student at the [Lee Kong Chian School of Medicine, NTU Singapore](https://www.ntu.edu.sg/medicine), using statistical and computational tools to understand the role of DNA methylation in cardiovascular disease.
+description:  I am a research fellow at the [Lee Kong Chian School of Medicine, NTU Singapore](https://www.ntu.edu.sg/medicine), using statistical and computational tools to understand the role of DNA methylation in cardiovascular disease.
 
 image_left: true
 images:
